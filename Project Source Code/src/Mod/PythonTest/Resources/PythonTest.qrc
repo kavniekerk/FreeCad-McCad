@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Create_Box.svg</file>
+        <file>Save_Box.svg</file>
+    </qresource>
+</RCC>

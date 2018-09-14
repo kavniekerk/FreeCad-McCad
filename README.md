@@ -1,9 +1,7 @@
 # FreeCAD-McCad
 FreeCAD based McCad ver 0.1
 
-
-
-
+![screenshot](https://raw.githubusercontent.com/McCadKIT/FreeCAD-McCad/master/Screenshot.png)
 
 FreeCAD Compiling
 -------

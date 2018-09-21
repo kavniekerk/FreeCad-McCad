@@ -14,7 +14,6 @@ cmake_install.cmake
 *~
 CMakeFiles/
 *qrc.depends
-ui_*.h
 moc_*.cpp
 Makefile
 CMakeCache.txt
@@ -30,3 +29,4 @@ install_manifest.txt
 /src/Tools/offlinedoc/localwiki/
 /src/Tools/offlinedoc/todolist.txt
 /src/Tools/offlinedoc/wikifiles.txt
+project/CMakeLists.txt.user
